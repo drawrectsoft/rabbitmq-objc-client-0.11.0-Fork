@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(name:"JKVValue",
-                 url: "https://github.com/jserranoglobant/JKVValue-1.3.3-Fork",
+                 url: "https://github.com/drawrectsoft/JKVValue-1.3.3-Fork",
                  branch: "main"),
         .package(url: "https://github.com/robbiehanson/CocoaAsyncSocket.git",
                  from: "7.6.5")
